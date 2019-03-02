@@ -1,0 +1,83 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Robomasterv2.com" resolutions="1x" timestamp="1520394005410">
+  <folder name="assets">
+    <file name="timg.jpg" crc="3961615638" seo="true" mt="1471230768000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="our-event.css" crc="293014788" ref="our-event"/>
+    <file name="about.css" crc="175641568" ref="about"/>
+    <file name="sponsors.css" crc="3760581066" ref="sponsors"/>
+    <file name="our-work.css" crc="3779848094" ref="our-work"/>
+    <file name="contact.css" crc="3788581940" ref="contact"/>
+    <file name="contact_sub.css" crc="3865248639" ref="contact_sub"/>
+    <file name="our-team.css" crc="179511647" ref="our-team"/>
+    <file name="index.css" crc="77458590" ref="index"/>
+    <file name="master_b-master.css" crc="4140182516" ref="our-team:our-event:sponsors:our-work:about:contact:contact_sub"/>
+    <file name="master_a-master.css" crc="3844123087" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="museutils.js" crc="4232573551" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="require.js" crc="4234670167" ref="index:contact:about:our-work:our-team:our-event:sponsors:contact_sub"/>
+    <file name="webpro.js" crc="3770351119" ref="contact:sponsors:our-work"/>
+    <file name="form_check.php" crc="3841221102" ref="contact"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contact"/>
+    <file name="form_process.php" crc="3899230280" ref="contact"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="sponsors"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index:about:our-work:our-team:our-event:contact:sponsors:contact_sub"/>
+    <file name="form-u1636.php" crc="4153967330" ref="contact"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="our-work"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="our-work"/>
+    <file name="touchswipe.js" crc="3912873526" ref="our-work"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="our-work"/>
+    <file name="main_background_1.jpg" crc="237083818" seo="true" ref="contact:about:our-work:our-team:our-event:sponsors:contact_sub">
+      <caption webpage="our-team" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="our-work" alt=""/>
+      <caption webpage="our-event" alt=""/>
+      <caption webpage="sponsors" alt=""/>
+      <caption webpage="contact_sub" alt=""/>
+    </file>
+    <file name="cactus.jpg" crc="4147957060" seo="true" ref="our-work">
+      <caption webpage="our-work" alt=""/>
+    </file>
+    <file name="road.jpg" crc="344618812" seo="true" ref="our-work">
+      <caption webpage="our-work" alt=""/>
+    </file>
+    <file name="trees.jpg" crc="4034565945" seo="true" ref="our-work">
+      <caption webpage="our-work" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="our-work"/>
+    <file name="未命名_meitu_0.jpg" crc="317636319" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="seethisflower.jpg" crc="395805849" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="slap.jpg" crc="390665723" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="dropurphonekid.jpg" crc="340924660" seo="true" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+    </file>
+    <file name="2b6c3bc19b9fcba30a49c9c779c3baf3.jpg" crc="27016803" seo="true" ref="our-team">
+      <caption webpage="our-team" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3816225226" seo="true" mt="1520393756028" redirect="true"/>
+  <file name="contact.html" crc="291925535" seo="true" mt="1519192870660" redirect="true"/>
+  <file name="about.html" crc="48070297" seo="true" mt="1519192870657" redirect="true"/>
+  <file name="our-work.html" crc="88155509" seo="true" mt="1519192870658" redirect="true"/>
+  <file name="our-team.html" crc="469322473" seo="true" mt="1519192870658" redirect="true"/>
+  <file name="our-event.html" crc="393133849" seo="true" mt="1519192870659" redirect="true"/>
+  <file name="sponsors.html" crc="3886965731" seo="true" mt="1519192870660" redirect="true"/>
+  <file name="contact_sub.html" crc="3877354309" seo="true" mt="1519192870661" redirect="true"/>
+</manifest>
